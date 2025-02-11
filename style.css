@@ -1,0 +1,28 @@
+body {
+    background-color: #A3D1C6; /* Light grey background */
+}
+
+/* Styling for the main greeting box */
+#body {
+    background-color: #B3D8A8; /* Light green */
+    border-radius: 10px;
+    padding: 60px;
+    margin: 5% auto;
+    width: 800px;
+    text-align: center;
+}
+
+/* Button styling */
+button {
+    background-color: #3D8D7A; /* Bootstrap blue */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #D0DDD0;
+}
